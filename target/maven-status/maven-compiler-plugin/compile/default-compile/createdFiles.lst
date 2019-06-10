@@ -1,0 +1,15 @@
+com/deutsch/drawing/validators/RectangleValidator.class
+com/deutsch/drawing/shapes/Rectangle.class
+com/deutsch/drawing/shapes/Rectangle$Builder.class
+com/deutsch/drawing/domain/Point.class
+com/deutsch/drawing/shapes/Line.class
+com/deutsch/drawing/domain/Point$Builder.class
+com/deutsch/drawing/facade/DrawingFacade.class
+com/deutsch/drawing/utils/Utils.class
+com/deutsch/drawing/validators/LineValidator.class
+com/deutsch/drawing/Application.class
+com/deutsch/drawing/domain/Canvas.class
+com/deutsch/drawing/shapes/Line$Builder.class
+com/deutsch/drawing/shapes/Shape.class
+com/deutsch/drawing/factory/DrawingSingletonFactory.class
+com/deutsch/drawing/exceptions/InvalidShapeException.class
